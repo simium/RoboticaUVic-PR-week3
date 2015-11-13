@@ -1,0 +1,68 @@
+506 data points in housing.data
+
+Solving Q5:
+### CRIM ###
+MSE training set: [ 62.29064434]
+MSE testing set: [  5.00715676e+13]
+R2 of testing set against theta from training set: [ -5.36749247e+11] 
+
+### ZN ###
+MSE training set: [ 59.94340249]
+MSE testing set: [ 103.84142845]
+R2 of testing set against theta from training set: [-0.11314287] 
+
+### INDUS ###
+MSE training set: [ 49.82500558]
+MSE testing set: [ 87.51560776]
+R2 of testing set against theta from training set: [ 0.06186407] 
+
+### CHAS ###
+MSE training set: [ 69.24037547]
+MSE testing set: [ 105.20352304]
+R2 of testing set against theta from training set: [-0.12774404] 
+
+### NOX ###
+MSE training set: [ 61.14210648]
+MSE testing set: [ 102.94522166]
+R2 of testing set against theta from training set: [-0.10353585] 
+
+### RM ###
+MSE training set: [ 13.32255635]
+MSE testing set: [ 80.08419049]
+R2 of testing set against theta from training set: [ 0.1415262] 
+
+### AGE ###
+MSE training set: [ 59.25425217]
+MSE testing set: [ 87.72147221]
+R2 of testing set against theta from training set: [ 0.05965728] 
+
+### DIS ###
+MSE training set: [ 63.57334658]
+MSE testing set: [ 116.31840985]
+R2 of testing set against theta from training set: [-0.24689164] 
+
+### RAD ###
+MSE training set: [ 62.7858572]
+MSE testing set: [ 720635.3452052]
+R2 of testing set against theta from training set: [-7723.95244343] 
+
+### TAX ###
+MSE training set: [ 63.3427603]
+MSE testing set: [ 228316.98189967]
+R2 of testing set against theta from training set: [-2446.47615967] 
+
+### PTRATIO ###
+MSE training set: [ 55.60500804]
+MSE testing set: [ 68.0966428]
+R2 of testing set against theta from training set: [ 0.27002841] 
+
+### B ###
+MSE training set: [ 65.35835443]
+MSE testing set: [ 126.01732839]
+R2 of testing set against theta from training set: [-0.35086056] 
+
+### LSTAT ###
+MSE training set: [ 19.78887402]
+MSE testing set: [ 40.99735048]
+R2 of testing set against theta from training set: [ 0.56052311] 
+

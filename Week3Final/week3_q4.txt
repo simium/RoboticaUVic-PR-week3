@@ -1,0 +1,9 @@
+506 data points in housing.data
+
+Solving Q4:
+(14, 1)
+(253, 14)
+MSE training set: [ 9.98751733]
+MSE testing set: [ 303.43686293]
+R2 of testing set against theta from training set: [-2.25273434] 
+

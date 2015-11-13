@@ -1,0 +1,4 @@
+Solving Q2:
+506 data points in housing.data
+theta = [ 22.53280632]
+MSE = 84.4195561562
